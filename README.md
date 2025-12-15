@@ -4,7 +4,7 @@
 A collection of production-like cloud projects implementing AWS services, Infrastructure as Code (IaC), CI/CD pipelines, and DevOps best practices. Each project includes architecture diagrams, cost analysis, and lessons learned.
 
 **🌐 Live Portfolio Website**: [https://davidugba.com](https://davidugba.com)  
-**📧 Contact**: [Your Email or LinkedIn Profile]
+**📧 Contact**: [Davidchukwu920@gmail.com]
 
 ## 📁 Projects
 
@@ -60,8 +60,8 @@ This portfolio documents my progression from basic hosting to production-grade c
 ## 📬 Connect
 - **Website**: [https://davidugba.com](https://davidugba.com)
 - **GitHub**: [github.com/davidugba](https://github.com/davidugba)
-- **LinkedIn**: [Your LinkedIn Profile URL]
-- **Email**: [Your Email]
+- **LinkedIn**: [www.linkedin.com/in/david-ugba-83a859159]
+- **Email**: [Davidchukwu@gmail.com]
 
 ---
 
